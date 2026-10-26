@@ -1,4 +1,4 @@
-# Gemini Scribe for Obsidian
+1# Gemini Scribe for Obsidian
 
 Gemini Scribe is an Obsidian plugin that integrates Google's Gemini AI models, providing powerful AI-driven assistance for note-taking, writing, and knowledge management directly within Obsidian. It leverages your notes as context for AI interactions, making it a highly personalized and integrated experience.
 
